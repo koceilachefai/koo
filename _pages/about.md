@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: CHEFAI Koceila
-image: assets/images/about/author.jpg
+image: /uploads/1.jpg
 signature: assets/images/about/signature.png
 ---
 
