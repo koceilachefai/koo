@@ -14,7 +14,7 @@ menu:
   - name: Portfolio
     link: /portfolio
   - name: Contact
-    link: /contact
+    link: mailto:koucic@gmail.com?body=https%3A%2F%2Fformspree.io%2Ff%2Fmbjwkjde
 google-analytics:
 disqus-identifier:
 hero:
