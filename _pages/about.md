@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: CHEFAI Koceila
-image: /uploads/1.jpg
+image: /uploads/capture-décran-deepin-zone-de-sélection--20201029014418.png
 signature: assets/images/about/signature.png
 ---
 
